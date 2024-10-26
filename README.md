@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @oliverjrupprecht
-- 👀 I’m interested in system architecture        
-- 🌱 I’m currently studying computer science at the University of Birmingham
